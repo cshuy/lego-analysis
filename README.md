@@ -1,1 +1,1 @@
-# lego-analysis
+# LEGO analysis
