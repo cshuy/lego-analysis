@@ -70,10 +70,9 @@ This project analyzes the public LEGO dataset to uncover long-term trends in pro
 
 This project is based on the **Lego SQL Challenge** by Will Sutton, which is licensed under the MIT License.
 
-Modifications have been made to the original project, including:
-![data_insight](https://github.com/cshuy/lego-analysis/blob/1f59832bf81415dfa649da5c0aaf46f96bf0bffa/sql/03_data_insight.sql)
+Modifications have been made to the original project, including:[data_insight](https://github.com/cshuy/lego-analysis/blob/1f59832bf81415dfa649da5c0aaf46f96bf0bffa/sql/03_data_insight.sql)
 
-The original project can be found at: [https://github.com/wjsutton/lego_analysis_challenge/tree/main]
+The original project can be found at: [link](https://github.com/wjsutton/lego_analysis_challenge/tree/main)
 
 Copyright (c) 2023 Will Sutton  
 Copyright (c) 2025 Shuyu Chen
