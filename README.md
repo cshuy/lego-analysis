@@ -14,9 +14,9 @@ Insights and recommendations are provided on the following key areas:
 - **Category 4:** **Theme-specific Market Share**  
 	Assessed the representation of specific themes (e.g., "Trains") within 21st-century sets to guide theme development and marketing focus.
 
-The SQL queries used to create the schema and regarding various business questions can be found here [https://github.com/cshuy/lego-analysis/tree/52faedd402d28ab065f33ed936c271e21706221b/sql].
+The SQL queries used to create the schema and regarding various business questions can be found here ![link](https://github.com/cshuy/lego-analysis/tree/52faedd402d28ab065f33ed936c271e21706221b/sql).
 
-An interactive Tableau dashboard used to report and explore sales trends can be found here [https://public.tableau.com/app/profile/shuyu.chen5845/viz/Lego_17449360807400/1_1].
+An interactive Tableau dashboard used to report and explore sales trends can be found here ![link](https://public.tableau.com/app/profile/shuyu.chen5845/viz/Lego_17449360807400/1_1).
 # Data Structure & Initial Checks
 
 The database structure as seen below consists of eight tables: colors, inventories, inventory_parts, inventory_sets, part_categories, parts, sets, themes. A description of each table is as follows:
